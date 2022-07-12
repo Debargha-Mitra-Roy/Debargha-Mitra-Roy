@@ -171,8 +171,9 @@ alt="Windows10" width="200px" src="./images/icons/Windows10.png"/></a>
 # My GitHub Stats :
 
 <p align="center">
-    <a href="https://github.com/Debargha-Mitra-Roy/">
+    <a href="https://github-readme-stats.vercel.app/api?username=Debargha-Mitra-Roy&count_private=true&show_icons=true&theme=radical">
       <img src="https://github-readme-stats.vercel.app/api?username=Debargha-Mitra-Roy&count_private=true&show_icons=true&theme=radical" style="margin-right:20px"/>
+    <a href="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Debargha-Mitra-Roy&layout=compact&langs_count=16&theme=react">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Debargha-Mitra-Roy&layout=compact&langs_count=16&theme=react" style="margin-left:40px"/>
   </a>
 </p>

@@ -142,6 +142,9 @@
 
 <p align="center">
 <a href="https://roadmap.sh/u/debarghamitraroy"><img src="https://roadmap.sh/card/wide/65df46af8947e435e747ecc8?variant=dark" alt="roadmap.sh"/></a>
+</p>
+
+<p align="center">
 <a href="https://roadmap.sh/u/debarghamitraroy"><img src="https://roadmap.sh/card/tall/65df46af8947e435e747ecc8?variant=dark" alt="roadmap.sh"/></a>
 </p>
 
